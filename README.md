@@ -2,7 +2,7 @@
 
 ## Overview
 
-The API Gateway aims to provide a single access point to the three components of Agape: the API Syntactic Extractor, the API Dataset Generator, and the API Syntactic Similarity Analyzer. It transparently routes and manages all request traffic to specific destination components that hold the respective information.
+The API Gateway aims to provide a single access point to the three components of Agape Approach: the API Syntactic Extractor, the API Dataset Generator, and the API Syntactic Similarity Analyzer. It transparently routes and manages all request traffic to specific destination components that hold the respective information.
 
 By registering these components, the API Gateway can collate information from the schema of each component, as well as the endpoints to obtain information wherever they reside. As a result, it possesses a comprehensive super schema that encompasses all functionalities available in the registered components. Figure 1 shows the registration of that three (3) microservices.
 
