@@ -108,7 +108,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
-
-For the full legal code of the license, please refer to [CC BY 4.0 Legal Code](https://creativecommons.org/licenses/by/4.0/legalcode).
+This project is licensed under the GPL-3.0 License - see the [LICENSE](LICENSE) file for details.
